@@ -1,0 +1,6 @@
+@troubleshoot_logging_HostAddress = http://localhost:5213
+
+GET {{troubleshoot_logging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
